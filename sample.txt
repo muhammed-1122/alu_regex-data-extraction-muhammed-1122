@@ -1,0 +1,37 @@
+Hello Team,
+
+Please reach out to our support staff at helpdesk@company.com or admin@company.co.uk for any inquiries.  
+Visit our main website: https://www.company.com or our documentation portal at https://docs.company.com/getting-started?ref=home.  
+You can also check our partner pages: https://partner.example.org/page.html and https://blog.company.com/articles/regex-tutorial.
+
+For phone support, call us at (555) 123-4567, 555-987-6543, or 555.321.4321.  
+If paying by card, use 4111 1111 1111 1111, 5500-0000-0000-0004, or 3400 000000 00009.
+
+Meeting times are scheduled at 09:00, 13:45, and 6:30 PM.  
+Webinars will occur at 15:00 and 7:15 PM.  
+
+Sample HTML content to test parsing:  
+<div class="header">Welcome to the Portal</div>  
+<p>Please read the <a href="https://www.company.com/terms">Terms and Conditions</a>.</p>  
+<img src="banner.jpg" alt="Banner Image">  
+
+Follow our social media hashtags: #TechNews #ALUProject #WebDev #PythonTips
+
+Pricing for services: $49.99 for basic, $1,299.50 for premium, and $12,345.67 for enterprise packages.  
+
+Additional emails: john.smith@example.org, mary.jane@sub.company.net.  
+More URLs: https://shop.company.com/products/item1, https://api.company.com/v1/data?format=json.  
+Extra phone numbers: (800) 555-1212, 123-123-1234.  
+Extra credit cards: 6011 0000 0000 0004, 3530-1113-3330-0000.
+
+Times in different formats: 23:59, 11:15 AM, 00:00, 12:00 PM.  
+
+HTML snippets: <span class="highlight">Important</span>, <ul><li>Item 1</li><li>Item 2</li></ul>  
+
+Hashtags for testing: #LearningRegex #DevLife #100DaysOfCode  
+
+Currency examples: $0.99, $999.99, $123,456.78, $7,890.12
+
+Thank you for testing our system.
+
+END
